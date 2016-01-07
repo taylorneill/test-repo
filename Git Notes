@@ -1,0 +1,5 @@
+git commit -an (commits changes)
+git push (pushes changes to branch)
+git pull (pulls version from branch)
+
+git add . (adds new files to repo index)
