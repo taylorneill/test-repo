@@ -3,3 +3,5 @@ git push (pushes changes to branch)
 git pull (pulls version from branch)
 
 git add . (adds new files to repo index)
+
+you cannot add an empty directory to git index
